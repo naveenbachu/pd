@@ -1,0 +1,12 @@
+text file added from laptop i.e local repositary
+$git push origin main
+
+$git remote -v
+myOrigin ssh://git@example.com:1234/myRepo.git (fetch)
+myOrigin ssh://git@example.com:1234/myRepo.git (push)
+
+# this will fail because `origin` is not set
+$git push origin main
+
+# you need to use
+$git push myOrigin main
