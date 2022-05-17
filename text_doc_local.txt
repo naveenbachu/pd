@@ -35,8 +35,11 @@ git stash list
 git stash drop
 ****************
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes
 
 
@@ -62,7 +65,17 @@ text 3 adding after stash of text2
 new test after stash commit
 @@@@
 
+
+@@@@
+new test after stash commit
+@@@@
+
 @@@@
 text 2 after stash commit,
 @@@@
+<<<<<<< Updated upstream
+text 2 after stash commit,
+@@@@
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
