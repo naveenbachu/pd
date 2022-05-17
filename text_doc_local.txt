@@ -79,3 +79,7 @@ text 2 after stash commit,
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+
+@@@@
+adding this text after git stash commit
+@@@@
