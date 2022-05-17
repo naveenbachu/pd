@@ -44,3 +44,7 @@ git stash drop
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+
+@@@@
+adding this text after git stash commit
+@@@@
