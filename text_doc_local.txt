@@ -48,3 +48,7 @@ git stash drop
 @@@@
 adding this text after git stash commit
 @@@@
+
+@@@
+text 3 adding after stash of text2
+@@@@
