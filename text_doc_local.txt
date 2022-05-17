@@ -21,14 +21,20 @@ git remote add origin "http://github.com/naveenbachu/pd.git"
 
 git push origin master
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 *******************
 working on git stash commit with this new text after stash command test
 =======
+=======
+>>>>>>> Stashed changes
 ********************
 working on git_ stash
 git stash apply
 git stash list
 git stash drop
 ****************
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
